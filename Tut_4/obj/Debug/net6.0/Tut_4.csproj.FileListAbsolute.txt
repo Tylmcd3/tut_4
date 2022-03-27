@@ -1,0 +1,15 @@
+/Users/tyler/Projects/Tut_4/Tut_4/bin/Debug/net6.0/Tut_4
+/Users/tyler/Projects/Tut_4/Tut_4/bin/Debug/net6.0/Tut_4.deps.json
+/Users/tyler/Projects/Tut_4/Tut_4/bin/Debug/net6.0/Tut_4.runtimeconfig.json
+/Users/tyler/Projects/Tut_4/Tut_4/bin/Debug/net6.0/Tut_4.dll
+/Users/tyler/Projects/Tut_4/Tut_4/bin/Debug/net6.0/Tut_4.pdb
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/Tut_4.csproj.AssemblyReference.cache
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/Tut_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/Tut_4.AssemblyInfoInputs.cache
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/Tut_4.AssemblyInfo.cs
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/Tut_4.csproj.CoreCompileInputs.cache
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/Tut_4.dll
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/refint/Tut_4.dll
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/Tut_4.pdb
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/Tut_4.genruntimeconfig.cache
+/Users/tyler/Projects/Tut_4/Tut_4/obj/Debug/net6.0/ref/Tut_4.dll
