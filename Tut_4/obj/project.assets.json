@@ -338,11 +338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tyler/Projects/Tut_4/Tut_4/Tut_4.csproj",
+      "projectUniqueName": "/Users/tyler/Documents/Kit206/tut_4/Tut_4/Tut_4.csproj",
       "projectName": "Tut_4",
-      "projectPath": "/Users/tyler/Projects/Tut_4/Tut_4/Tut_4.csproj",
+      "projectPath": "/Users/tyler/Documents/Kit206/tut_4/Tut_4/Tut_4.csproj",
       "packagesPath": "/Users/tyler/.nuget/packages/",
-      "outputPath": "/Users/tyler/Projects/Tut_4/Tut_4/obj/",
+      "outputPath": "/Users/tyler/Documents/Kit206/tut_4/Tut_4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tyler/.nuget/NuGet/NuGet.Config"

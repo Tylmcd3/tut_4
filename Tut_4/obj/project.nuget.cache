@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MchjNNjDlHsRnosMPCUd+MpPzq/vDZsJ1daKFhGSY1bveZpmvJTxYV+0+NanI++w6vE5OKO2uX34pFixkTVMmw==",
+  "dgSpecHash": "UHVLH9nLzCliIuEYeN1zaZfqkC89IP8lWmakXa0IwVSqg+LAK61gx8iN+itkNBT4A9W3RF5A18aZdYeFWb9xiA==",
   "success": true,
-  "projectFilePath": "/Users/tyler/Projects/Tut_4/Tut_4/Tut_4.csproj",
+  "projectFilePath": "/Users/tyler/Documents/Kit206/tut_4/Tut_4/Tut_4.csproj",
   "expectedPackageFiles": [
     "/Users/tyler/.nuget/packages/carbon.data.protection/1.5.0/carbon.data.protection.1.5.0.nupkg.sha512",
     "/Users/tyler/.nuget/packages/carbon.packaging/1.50.0/carbon.packaging.1.50.0.nupkg.sha512",

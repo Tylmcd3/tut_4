@@ -6,9 +6,19 @@ using System.Threading.Tasks;
 
 namespace Tut_4
 {
-    class Employee
-    {
-        public string name;
+    public class Employee
+    {   
+        private string name;
+        public string Name {
+            get {
+                return name;
+            }
+            set {
+                if (value != null) {
+                    name = value;
+                }
+            }
+        }
         public int id;
         public Gender gender;
 
