@@ -3,7 +3,7 @@ namespace Tut_4
 {
 	public class Boss
 	{
-		private List<Employee> staff = Agency.Generate();
+		public List<Employee> staff = Agency.Generate();
 
 		public void Display()
 		{

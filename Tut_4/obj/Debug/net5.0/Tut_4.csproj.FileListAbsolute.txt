@@ -1,0 +1,6 @@
+/Users/tyler/Documents/Kit206/tut_4/Tut_4/obj/Debug/net5.0/Tut_4.csproj.AssemblyReference.cache
+/Users/tyler/Documents/Kit206/tut_4/Tut_4/obj/Debug/net5.0/Tut_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyler/Documents/Kit206/tut_4/Tut_4/obj/Debug/net5.0/Tut_4.AssemblyInfoInputs.cache
+/Users/tyler/Documents/Kit206/tut_4/Tut_4/obj/Debug/net5.0/Tut_4.AssemblyInfo.cs
+/Users/tyler/Documents/Kit206/tut_4/Tut_4/obj/Debug/net5.0/Tut_4.csproj.CoreCompileInputs.cache
+/Users/tyler/Documents/Kit206/tut_4/Tut_4/obj/Debug/net5.0/Tut_4.sourcelink.json

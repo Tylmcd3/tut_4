@@ -1,7 +1,7 @@
 namespace Tut_4
 {
     public abstract class Agency{
-        public List<Employee> Generate(){
+        public static List<Employee> Generate(){
             List<Employee> employees = new List<Employee>(){
                 new Employee { Name = "Joe", id = 1, gender = Gender.M },
                 new Employee { Name = "Jane", id = 2, gender = Gender.F },
